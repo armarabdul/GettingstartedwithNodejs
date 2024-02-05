@@ -12,7 +12,7 @@ if (!fs.existsSync("./new")) {
 
 //remove directory if it exist
 if (fs.existsSync("./new")) {
-  //checks if the specific(./new) directory is previously created or not,
+  //removes the directory with the specific pathname
   fs.rmdir("./new", (err) => {
     if (err) throw error;
     console.log("new directory deleted");
