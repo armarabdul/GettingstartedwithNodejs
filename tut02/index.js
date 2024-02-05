@@ -1,8 +1,16 @@
-const { format } = require("date-fns");
-const { v4: uuid } = require("uuid");
+const logEvent = require("./logEvents");
+const EventEmitter = require("events");
 
-console.log(format(new Date(), "yyyyMMdd\tHH:mm:ss"));
-console.log(uuid());
+// Create a custom EventEmitter named MyEmitter
+class MyEmitter extends EventEmitter {}
 
-//learned to install dependency using npm run dev and using it in a project, and writing a script in package-json,
-//used format from date-fns package by npm i date-fns and version 4 of uuid (universal unique identifier) using npm i uuid,
+// Initialize an object of MyEmitter
+const myEmitter = new MyEmitter();
+
+//add event listener for the log event
+myEmitter.on("log", (msg) => logEvent(msg));
+
+setTimeout(() => {
+  //emit event
+  myEmitter.emit("log", "log event emitted");
+}, 2000);
