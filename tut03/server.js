@@ -65,7 +65,6 @@ const server = http.createServer((req, res) => {
     default:
       contentType = "text/html";
   }
-
   let filePath =
     contentType === "text/html" && req.url === "/"
       ? path.join(__dirname, "views", "index.html")
