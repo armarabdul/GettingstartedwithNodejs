@@ -15,3 +15,32 @@
 20240208	15:23:20	cd9dfe86-62be-47c4-a977-eaee97806dae	/	GET
 20240208	15:26:37	a99b9b3f-d60d-4eee-ada5-79770b93d663	/new-page	GET
 20240208	15:26:37	390aac1a-42bc-4518-8bab-d544dcff2c82	/img/clouds-cloudy-countryside-236047.jpg	GET
+20240212	16:51:35	05f25e63-49aa-4a06-a738-25a7fa1e659e	GET	 undefined	 /new-page
+20240212	16:51:35	d307247b-bbb0-4059-9369-39707b37d6ab	GET	 undefined	 /css/style.css
+20240212	16:51:35	cfbca3cf-4b42-45ac-accb-bbdbeb90e98c	GET	 undefined	 /img/img1.jpg
+20240212	16:57:02	67ef81c1-fc92-4bf7-a732-8f711254b4fd	GET	 undefined	 /404
+20240212	16:57:02	71f64049-2f46-4136-9131-7a69654ee98a	GET	 undefined	 /css/style.css
+20240212	16:59:45	1d647979-28b6-4671-99bb-49e8024dc08b	GET	 undefined	 /404
+20240212	16:59:45	e1e01ae3-abab-4720-93f1-45c37503b28a	GET	 undefined	 /css/style.css
+20240212	16:59:59	0ce67052-cc02-41ae-b18a-4a4047c03bb2	GET	 undefined	 /css/style.css
+20240212	17:01:31	2f64a4c1-18a6-4791-a5d4-ab42386c8cb3	GET	 undefined	 /
+20240212	17:02:27	8b326bc5-f20f-4191-8284-11c290bb9097	GET	 undefined	 /index
+20240212	17:02:27	ce016482-cfe9-41e5-a5f3-9ae9eebbc0b5	GET	 undefined	 /css/style.css
+20240212	17:03:51	90fb0222-cab6-4cea-9530-b814203ad807	GET	 undefined	 /
+20240212	17:18:50	01b5ce36-c6a4-4bd5-804e-5960b4d63490	GET	 undefined	 /
+20240212	17:19:26	bac384b4-bc88-479a-8b54-ca72093095da	GET	 undefined	 /
+20240217	11:22:09	2782d4c8-b765-4b3b-b28a-5e4dd356f773	GET	 undefined	 /index
+20240217	11:22:09	202c569a-32f8-436b-bbbb-76fe4c023339	GET	 undefined	 /favicon.ico
+20240217	11:22:13	e55fcfe4-0b09-474a-b89a-03f37fb801dd	GET	 undefined	 /
+20240217	11:22:13	df80b7cd-608c-4dec-9d95-734bed8bb826	GET	 undefined	 /favicon.ico
+20240217	11:23:41	e54f7f9c-a76c-4d2b-b775-c87a67017d77	GET	 undefined	 /index
+20240217	11:23:41	3e757c90-6722-45bc-9f78-736676028d06	GET	 undefined	 /css/style.css
+20240217	11:23:41	e6cb8bca-689b-4183-9ec1-296c04e279c1	GET	 undefined	 /favicon.ico
+20240217	11:32:51	ded50c30-e3bd-41fe-b5cc-54414fd12760	GET	 undefined	 /index
+20240217	11:40:30	058d1f28-1e4d-411b-b758-224304195703	GET	 undefined	 /index
+20240217	11:40:39	065f3811-3b2a-4431-8c3e-19c7ce4874f3	GET	 undefined	 /index
+20240217	11:41:04	f5142a33-c234-4814-8877-2ead89d9a1e8	GET	 undefined	 /index
+20240217	11:41:59	bf3384cd-3ddd-4815-b033-b4c02b344b3f	GET	 undefined	 /index
+20240217	11:41:59	595c0763-401f-4465-92c8-24a0b11ab4af	GET	 undefined	 /css/style.css
+20240217	11:44:12	45998f28-7576-4626-be8a-bd7abea8f434	GET	 undefined	 /abdul
+20240217	11:44:12	8f9c72a7-9131-4654-b0f5-55d3c70c6e1d	GET	 undefined	 /css/style.css
